@@ -9,9 +9,9 @@ Na kierunku Informatycznym w Gdańsku.
 
 # Obraz z kotem
 
-![](C:/Users/s27811/AppData/Local/Temp/download.jpg)
+![](https://img-ovh-cloud.zszywka.pl/1/0656/6349-kot-vader.jpg)
 
-//zdj z https://zszywka.pl/p/kot-vader-22108043.html"
+//zdj z https://zszywka.pl/p/kot-vader-22108043.html
 
 # Link do twojego Githuba
 https://github.com/MateuszKucharzewski
