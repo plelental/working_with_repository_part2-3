@@ -1,4 +1,5 @@
-### Kim jestem &
+& lorem ipsum
+### Kim jestem 
  Jestem Michal Kodzis mam 19 lat
 
 ### Hobby
