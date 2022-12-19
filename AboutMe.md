@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+&
+>>>>>>> 9742747 (lorem)
 # AboutMe
 
 ## Kim jestem?
