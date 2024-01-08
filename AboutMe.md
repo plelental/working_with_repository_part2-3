@@ -1,4 +1,4 @@
-# Jestem studentem @ adasda
+# Jestem studentem @ lorem
 
 - kodowanie
 - siatkowka
