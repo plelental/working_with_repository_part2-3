@@ -1,4 +1,5 @@
-# Jestem studentem
+# Jestem studentem 
+
 
 - kodowanie
 - siatkowka
@@ -9,4 +10,6 @@
 
 
 LINK DO GITA
+
 `https://github.com/dominikdorawaa`
+
