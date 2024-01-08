@@ -1,4 +1,4 @@
-# Jestem studentem @ lorem ipsum eze d
+# Jestem studentem
 
 - kodowanie
 - siatkowka
