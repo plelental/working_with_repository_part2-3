@@ -1,4 +1,4 @@
-# Jestem studentem @ lorem ipsum asdad
+# Jestem studentem @ lorem ipsum sasdad
 
 - kodowanie
 - siatkowka
