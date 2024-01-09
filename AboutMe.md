@@ -1,3 +1,4 @@
+*
 # Michał Wiśniewski
 
 ## Kim jestem?
