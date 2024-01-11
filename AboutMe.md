@@ -7,3 +7,7 @@ Nazywam się Wojciech Wronisz. Studiuje Informatykę na PJATK. Jest to super ucz
 - Programowanie
 - Słuchanie Muzyki
 - Granie w gry
+
+# Obraz z kotem
+
+![Kot](https://img2.stylowi.pl/images/items/o/201406/stylowi_pl_zwierzeta_kot-van-gogh_22717793.jpg)
