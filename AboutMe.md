@@ -1,6 +1,6 @@
 # O mnie
 
-Nazywam się Bartosz i pochodzę z Kołobrzegu. Obecnie mieszkam w Gdańsku i studiuję tu Informatykę na Polsko-Japońskiej Akademii Techniczno-Komputerowej.
+Nazywam się *Bartosz i pochodzę z Kołobrzegu. Obecnie mieszkam w Gdańsku i studiuję tu Informatykę na Polsko-Japońskiej Akademii Techniczno-Komputerowej.
 
 
 # Moje hobby
