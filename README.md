@@ -96,3 +96,6 @@ Operacje prosto można również wykonać za pomocą graficznych interejsów uż
 20. Wróc do brancha `feature/<twoj_numer_indeksu>/cherrypick`
 21. Zrób cherry-picka ostatniego commita z głównego brancha
 22. Wypushuj zmiany, stwórz PR i poproś prowadzącego
+
+
+Testuje gita
